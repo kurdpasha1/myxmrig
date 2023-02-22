@@ -1,0 +1,15 @@
+https://colab.research.google.com/github/akuhnet/Colab-SSH/blob/main/SSH_GPU_FIX.ipynb#scrollTo=ZwJYM5aOtonj
+
+
+./1.33/lolMiner --algo ETHASH --pool ethash-asia.unmineable.com:3333 --user ETH:0xB706356e145AfdEBD9EE5CD5301D29A6cB76c323.COLA-02
+
+./xmrig --algo ETHASH --pool ethash-asia.unmineable.com:3333 --user DOGE:DDLXts3kRrQDGg48RDfXnFzuamQX5hUQty.COLA-01
+
+https://platform.cloudways.com/server/945670/access_detail
+
+
+
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.33/lolMiner_v1.33_Lin64.tar.gz
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.1/xmrig-6.15.1-linux-x64.tar.gz
+tar -xvf xmrig-6.15.1-linux-x64.tar.gz
+
