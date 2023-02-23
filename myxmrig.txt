@@ -6,7 +6,7 @@ https://colab.research.google.com/github/akuhnet/Colab-SSH/blob/main/SSH_GPU_FIX
 ./xmrig --algo ETHASH --pool ethash-asia.unmineable.com:3333 --user DOGE:DDLXts3kRrQDGg48RDfXnFzuamQX5hUQty.COLA-01
 
 https://platform.cloudways.com/server/945670/access_detail
-
+https://github.com/RegressiveIsProgressive/BTC-ETH-BSC-WalletHack-WalletRecovery-BTCSoloMine
 
 
 wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.33/lolMiner_v1.33_Lin64.tar.gz
